@@ -1,8 +1,8 @@
-# 🎵 Spotify Music Analytics
+# Spotify Music Analytics
 
 A data analytics project that explores Spotify music data to identify trends in **tracks, artists, genres, popularity, and audio characteristics**. The project uses **Python for data cleaning, PostgreSQL for data storage and querying, and Power BI for interactive visualization**.
 
-## 📌 Project Overview
+##  Project Overview
 
 The goal of this project is to transform raw Spotify track data into meaningful insights through an end-to-end data analytics workflow.
 
@@ -15,7 +15,7 @@ The project covers:
 * Interactive dashboard development using Power BI
 * Analysis of popularity, genres, explicit content, and audio features
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python**
 * **Pandas**
@@ -26,7 +26,7 @@ The project covers:
 * **Jupyter Notebook**
 * **Git & GitHub**
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ```text
 Raw Spotify Dataset
@@ -46,7 +46,7 @@ Interactive Dashboard
 Business & Music Insights
 ```
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains Spotify track-level information including:
 
@@ -67,7 +67,7 @@ The dataset contains Spotify track-level information including:
 
 The cleaned dataset contains **114K+ Spotify tracks** used for analysis and visualization.
 
-## 🧹 Data Cleaning
+## Data Cleaning
 
 Python and Pandas were used to prepare the dataset for analysis.
 
@@ -86,7 +86,7 @@ The cleaning process is documented in:
 notebooks/data_cleaning.ipynb
 ```
 
-## 🗄️ PostgreSQL Database
+##  PostgreSQL Database
 
 The cleaned Spotify dataset was loaded into a PostgreSQL database named:
 
@@ -108,7 +108,7 @@ Database loading and related operations are documented in:
 notebooks/load_to_postgres.ipynb
 ```
 
-## 📈 Power BI Dashboard
+## Power BI Dashboard
 
 The Power BI dashboard provides an interactive overview of Spotify music data.
 
@@ -123,16 +123,16 @@ The Power BI dashboard provides an interactive overview of Spotify music data.
 
 The dashboard includes:
 
-* 🎼 Top 10 Genres
-* 🎤 Artist and track analysis
-* 📊 Explicit vs Non-Explicit tracks
-* ⚡ Energy distribution
-* 💃 Danceability analysis
-* 🔥 Popularity analysis
-* 🎵 Tempo distribution
-* 🔎 Interactive filters and visualizations
+*  Top 10 Genres
+*  Artist and track analysis
+*  Explicit vs Non-Explicit tracks
+*  Energy distribution
+*  Danceability analysis
+*  Popularity analysis
+*  Tempo distribution
+*  Interactive filters and visualizations
 
-## 💡 Key Insights
+## Key Insights
 
 The analysis helps explore questions such as:
 
@@ -143,7 +143,7 @@ The analysis helps explore questions such as:
 * What relationship can be observed between audio features and popularity?
 * Which characteristics are common among popular tracks?
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Spotify-Music-Analytics/
@@ -166,7 +166,7 @@ Spotify-Music-Analytics/
 └── requirements.txt
 ```
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### 1. Clone the Repository
 
@@ -220,7 +220,7 @@ powerbi/Spotify_Music_Analytics.pbix
 
 Update the PostgreSQL connection if required and refresh the data.
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 Add your Power BI dashboard screenshot here:
 
@@ -228,7 +228,7 @@ Add your Power BI dashboard screenshot here:
 ![Spotify Music Analytics Dashboard](screenshots/dashboard.png)
 ```
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 This project demonstrates practical experience with:
 
@@ -243,7 +243,7 @@ This project demonstrates practical experience with:
 * Data Analysis
 * Git & GitHub
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Add automated ETL pipelines
 * Perform advanced statistical analysis
@@ -252,7 +252,7 @@ This project demonstrates practical experience with:
 * Add automated data refresh
 * Deploy the dashboard for online access
 
-## 👨‍💻 Author
+## Author
 
 **Kanak Lilhare**
 
